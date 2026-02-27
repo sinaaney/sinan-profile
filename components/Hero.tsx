@@ -87,7 +87,7 @@ export default function Hero() {
             
             <div className="relative h-full w-full rounded-[2rem] overflow-hidden shadow-2xl border-4 border-white">
               <Image 
-                src="https://picsum.photos/seed/profile/800/1000" 
+                src="https://picsum.photos/seed/sinan-pt/800/1000" 
                 alt="Muhammed Sinan PT"
                 fill
                 className="object-cover"

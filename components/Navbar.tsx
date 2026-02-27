@@ -22,7 +22,7 @@ export default function Navbar() {
         <div className="flex items-center gap-3 text-blue-600">
           <div className="relative w-8 h-8 rounded-full overflow-hidden border border-blue-600/20">
             <Image 
-              src="https://picsum.photos/seed/profile/100/100" 
+              src="https://picsum.photos/seed/sinan-pt/100/100" 
               alt="Sinan PT"
               fill
               className="object-cover"

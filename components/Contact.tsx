@@ -19,7 +19,7 @@ export default function Contact() {
             <div className="flex items-center gap-6 mb-10">
               <div className="relative w-20 h-20 rounded-2xl overflow-hidden border-2 border-white/10 shadow-xl">
                 <Image 
-                  src="https://picsum.photos/seed/profile/200/200" 
+                  src="https://picsum.photos/seed/sinan-pt/200/200" 
                   alt="Muhammed Sinan PT"
                   fill
                   className="object-cover"
